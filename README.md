@@ -17,4 +17,5 @@ This dashboard helps stakeholders understand customer behaviours, key segments, 
 Geographical Analysis: 
 This dashboard helps stakeholders analyze geographical sales trends, identify key markets, and optimize logistics strategies for efficient order fulfillment and growth.
 
+You can see the comprehensive analysis of my project here: https://sites.google.com/view/christophermurmupowerbiproject/home?authuser=1
 
