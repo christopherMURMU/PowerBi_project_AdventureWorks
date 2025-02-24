@@ -3,7 +3,6 @@ I have crafted this project for AdventureWorks, a fictional company created by M
 
 My project aims at providing business insights that can be utilized in optimizing sales performance and enhancing customer insights for various stakeholders of Adventure Works.
 
-This project offers four comprehensive views: Bikes Sales Overview, Time-Based Analysis, Customer Analysis and Geographical Analysis
 
 This Business project uncovers the following insights:
 
