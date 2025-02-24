@@ -10,7 +10,6 @@ Sales Performance:
 Built an interactive Power BI dashboard using the AdventureWorksDW dataset to analyze key metrics, achieving total sales of $21.2 million over 2022–2023 with a 163% year-over-year growth.
 
 Product Insights:
-
 Determined that Road and Mountain bikes accounted for 82% of total revenue, with the Mountain-200 emerging as the top-performing product in terms of sales and net profit.
 
 Cost Efficiency:
