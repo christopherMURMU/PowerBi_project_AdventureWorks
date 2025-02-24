@@ -3,19 +3,25 @@ I have crafted this project for AdventureWorks, a fictional company created by M
 
 My project aims at providing business insights that can be utilized in optimizing sales performance and enhancing customer insights for various stakeholders of Adventure Works.
 
-This project offers four comprehensive views: 
+This project offers four comprehensive views: Bikes Sales Overview, Time-Based Analysis, Customer Analysis and Geographical Analysis
 
-Bikes Sales Overview: 
-This Bikes Sales Overview Dashboard provides a comprehensive summary of sales performance, costs, and key financial metrics to help stakeholders in strategic decision-making. 
+This Business project uncovers the following insights:
 
-Time-Based Analysis: 
-This dashboard helps stakeholders track seasonal sales trends, analyze category-wise contributions, and evaluate net profit and sales over time.
+Sales Performance: 
+Built an interactive Power BI dashboard using the AdventureWorksDW dataset to analyze key metrics, achieving total sales of $21.2 million over 2022–2023 with a 163% year-over-year growth.
 
-Customer Analysis: 
-This dashboard helps stakeholders understand customer behaviours, key segments, and retention trends, enabling data-driven strategies for targeted marketing and customer relationship management.
+Product Insights:
+Determined that Road and Mountain bikes accounted for 82% of total revenue, with the Mountain-200 emerging as the top-performing product in terms of sales and net profit.
 
-Geographical Analysis: 
-This dashboard helps stakeholders analyze geographical sales trends, identify key markets, and optimize logistics strategies for efficient order fulfillment and growth.
+Cost Efficiency:
+Analyzed financial performance by calculating a 62% cost-to-revenue ratio, indicating that $0.62 in costs was incurred for every $1 in revenue.
+
+Customer Analytics:
+Processed data for 8,870 customers and 12,975 orders, resulting in a 91% customer retention rate and an average order value of $1,634.
+
+Temporal & Geographical Trends:
+Uncovered seasonal sales trends with peak performance in December and mapped operations across 6 countries, 53 states, and 269 cities. Notably, the USA and Australia together generated over 50% of total revenue (approximately $12.7 million).
+
 
 You can see the complete explanation of my project here: https://sites.google.com/view/christophermurmupowerbiproject/home?authuser=1
 
